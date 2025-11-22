@@ -1,0 +1,2 @@
+streamlit pandas numpy plotly yfinance ta torch transformers gymnasium stable-baselines3 scikit-learn prophet beautifulsoup4 requests
+

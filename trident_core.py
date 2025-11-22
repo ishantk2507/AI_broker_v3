@@ -49,7 +49,7 @@ set_seeds()
 # CONFIGURATION
 # ==========================================
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-MODEL_DIR = "v3/trident_models"
+MODEL_DIR = "trident_models"
 os.makedirs(MODEL_DIR, exist_ok=True)
 
 # ==========================================
